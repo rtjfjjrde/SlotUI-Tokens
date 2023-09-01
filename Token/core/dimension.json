@@ -1,0 +1,347 @@
+{
+  "core": {
+    "border-width": {
+      "0": {
+        "value": "0",
+        "type": "borderWidth",
+        "description": "描边的宽度不随 rem 的变化而变化。描边将始终为固定指数"
+      },
+      "5": {
+        "value": ".5",
+        "type": "borderWidth"
+      },
+      "10": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "15": {
+        "value": "1.5",
+        "type": "borderWidth"
+      },
+      "20": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "25": {
+        "value": "2.5",
+        "type": "borderWidth"
+      },
+      "30": {
+        "value": "3",
+        "type": "borderWidth"
+      },
+      "35": {
+        "value": "3.5",
+        "type": "borderWidth"
+      },
+      "40": {
+        "value": "4",
+        "type": "borderWidth"
+      }
+    },
+    "radius": {
+      "0": {
+        "value": "{core.radius.baseRadius} * 0",
+        "type": "borderRadius"
+      },
+      "6": {
+        "value": "{core.radius.baseRadius} * 6.25",
+        "type": "borderRadius"
+      },
+      "12": {
+        "value": "{core.radius.baseRadius} * 12.5",
+        "type": "borderRadius"
+      },
+      "19": {
+        "value": "{core.radius.baseRadius} * (12.5+6.25)",
+        "type": "borderRadius"
+      },
+      "25": {
+        "value": "{core.radius.baseRadius} * 25",
+        "type": "borderRadius"
+      },
+      "37": {
+        "value": "{core.radius.baseRadius} * 37.5",
+        "type": "borderRadius"
+      },
+      "50": {
+        "value": "{core.radius.baseRadius} * 50",
+        "type": "borderRadius"
+      },
+      "75": {
+        "value": "{core.radius.baseRadius} * 75",
+        "type": "borderRadius"
+      },
+      "100": {
+        "value": "{core.radius.baseRadius} * 100",
+        "type": "borderRadius"
+      },
+      "125": {
+        "value": "{core.radius.baseRadius} * 125",
+        "type": "borderRadius"
+      },
+      "150": {
+        "value": "{core.radius.baseRadius} * 150",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "{core.radius.baseRadius} * 200",
+        "type": "borderRadius"
+      },
+      "300": {
+        "value": "{core.radius.baseRadius} * 300",
+        "type": "borderRadius"
+      },
+      "Infinite": {
+        "value": "3000",
+        "type": "borderRadius"
+      },
+      "baseRadius": {
+        "value": "{core.size.✦rem} / 100",
+        "type": "borderRadius"
+      }
+    },
+    "size": {
+      "✦rem": {
+        "value": "16",
+        "type": "sizing",
+        "description": "size.rem 是所有与尺寸相关的标记（size、space、padding 等）的基本比例。\n默认值为 1rem=16px，改变它，即改变所有尺寸相关内容"
+      },
+      "base": {
+        "value": "{core.size.✦rem} / 100",
+        "type": "sizing",
+        "description": "整数优化"
+      }
+    },
+    "line-height": {
+      "xs": {
+        "value": "100%",
+        "type": "lineHeights",
+        "description": "反直觉的是，xs 可以作为 head 的行高"
+      },
+      "s": {
+        "value": "115%",
+        "type": "lineHeights",
+        "description": "默认行高，也可以作为行高的优秀选择"
+      },
+      "m": {
+        "value": "130%",
+        "type": "lineHeights",
+        "description": "非正文的行高，可能是 tooltips。"
+      },
+      "l": {
+        "value": "150%",
+        "type": "lineHeights",
+        "description": "正文行高。"
+      }
+    },
+    "paragraph": {
+      "zero": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      },
+      "s": {
+        "value": "0.25",
+        "type": "paragraphSpacing"
+      },
+      "m": {
+        "value": ".5",
+        "type": "paragraphSpacing"
+      },
+      "l": {
+        "value": "0.75",
+        "type": "paragraphSpacing"
+      },
+      "xl": {
+        "value": "1",
+        "type": "paragraphSpacing"
+      }
+    },
+    "dimension": {
+      "0": {
+        "value": "{core.size.base} * 0",
+        "type": "dimension"
+      },
+      "6": {
+        "value": "{core.size.base} * 6.25",
+        "type": "dimension"
+      },
+      "12": {
+        "value": "{core.size.base} *  6.25*2",
+        "type": "dimension"
+      },
+      "19": {
+        "value": "{core.size.base} *  6.25*3",
+        "type": "dimension"
+      },
+      "25": {
+        "value": "{core.size.base} *  6.25*4",
+        "type": "dimension"
+      },
+      "31": {
+        "value": "{core.size.base} *  6.25*5",
+        "type": "dimension"
+      },
+      "37": {
+        "value": "{core.size.base} *  6.25*6",
+        "type": "dimension"
+      },
+      "43": {
+        "value": "{core.size.base} *  6.25*7",
+        "type": "dimension"
+      },
+      "50": {
+        "value": "{core.size.base} * 50",
+        "type": "dimension"
+      },
+      "75": {
+        "value": "{core.size.base} * 75",
+        "type": "dimension"
+      },
+      "100": {
+        "value": "{core.size.base} * 100",
+        "type": "dimension"
+      },
+      "112": {
+        "value": "{core.size.base} * 112.5",
+        "type": "dimension"
+      },
+      "125": {
+        "value": "{core.size.base} * 125",
+        "type": "dimension"
+      },
+      "150": {
+        "value": "{core.size.base} * 150",
+        "type": "dimension"
+      },
+      "175": {
+        "value": "{core.size.base} * 175",
+        "type": "dimension"
+      },
+      "200": {
+        "value": "{core.size.base} * 200",
+        "type": "dimension"
+      },
+      "225": {
+        "value": "{core.size.base} * 225",
+        "type": "dimension"
+      },
+      "250": {
+        "value": "{core.size.base} * 250",
+        "type": "dimension"
+      },
+      "300": {
+        "value": "{core.size.base} * 300",
+        "type": "dimension"
+      },
+      "350": {
+        "value": "{core.size.base} * 350",
+        "type": "dimension"
+      },
+      "400": {
+        "value": "{core.size.base} * 400",
+        "type": "dimension"
+      },
+      "450": {
+        "value": "{core.size.base} * 450",
+        "type": "dimension"
+      },
+      "500": {
+        "value": "{core.size.base} * 500",
+        "type": "dimension"
+      },
+      "600": {
+        "value": "{core.size.base} * 600",
+        "type": "dimension"
+      },
+      "700": {
+        "value": "{core.size.base} * 700",
+        "type": "dimension"
+      },
+      "800": {
+        "value": "{core.size.base} * 800",
+        "type": "dimension"
+      },
+      "900": {
+        "value": "{core.size.base} * 900",
+        "type": "dimension"
+      },
+      "1000": {
+        "value": "{core.size.base} * 1000",
+        "type": "dimension"
+      },
+      "1100": {
+        "value": "{core.size.base} * 1100",
+        "type": "dimension"
+      },
+      "1200": {
+        "value": "{core.size.base} * 1200",
+        "type": "dimension"
+      },
+      "1300": {
+        "value": "{core.size.base} * 1300",
+        "type": "dimension"
+      },
+      "1400": {
+        "value": "{core.size.base} * 1400",
+        "type": "dimension"
+      },
+      "1500": {
+        "value": "{core.size.base} * 1500",
+        "type": "dimension"
+      },
+      "1600": {
+        "value": "{core.size.base} * 1600",
+        "type": "dimension"
+      },
+      "2000": {
+        "value": "{core.size.base} * 2000",
+        "type": "dimension"
+      },
+      "2400": {
+        "value": "{core.size.base} * 2400",
+        "type": "dimension"
+      }
+    }
+  },
+  "hidden": {
+    "value": "0",
+    "type": "opacity"
+  },
+  "disabled": {
+    "value": ".35",
+    "type": "opacity"
+  },
+  "placeholder": {
+    "value": "40%",
+    "type": "opacity"
+  },
+  "secondary-info": {
+    "value": "60%",
+    "type": "opacity"
+  },
+  "tooltips": {
+    "value": "1",
+    "type": "borderRadius"
+  },
+  "Straight": {
+    "value": "0",
+    "type": "borderRadius"
+  },
+  "regular": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "medium": {
+    "value": "500",
+    "type": "fontWeights"
+  },
+  "bold": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "tooltipBox": {
+    "value": "{tooltips}+2",
+    "type": "borderRadius"
+  }
+}
