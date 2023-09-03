@@ -1,16 +1,5 @@
 {
   "elevations": {
-    "234": {
-      "value": {
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "0",
-        "color": "rgba(75,36,36,0.30)",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
     "shadow": {
       "overlay": {
         "value": [
@@ -77,6 +66,56 @@
         "type": "boxShadow",
         "description": "UI 元素（modals、dropdown menus、dialogs 等\n与 $elevation.surface.raised 一同使用\n也可用于 UI 元素 被拖拽（drag）时的投影"
       }
+    },
+    "button-raised": {
+      "value": [
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "5",
+          "spread": "-2",
+          "color": "rgba($color.background.neutral.bold.default,0.06)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "2",
+          "spread": "-.5",
+          "color": "rgba($color.background.neutral.bold.default,0.16)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "button-hover": {
+      "value": [
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "12",
+          "spread": "-2",
+          "color": "rgba($color.background.neutral.bold.default,0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "5",
+          "spread": "-2",
+          "color": "rgba($color.background.neutral.bold.default,0.06)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "2",
+          "spread": "-0.5",
+          "color": "rgba($color.background.neutral.bold.default,0.16)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
     }
   },
   "focus": {

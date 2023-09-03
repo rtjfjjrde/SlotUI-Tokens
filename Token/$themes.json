@@ -450,12 +450,11 @@
       "focus.default Focus + 1px White Offset": "S:53278097e492931d1fb8d239517b7703cd4a9438,",
       "elevations.shadow.overlay": "S:f0f826a7d3bd8b60b77bd96ad4cbe9a18cc5f035,",
       "elevations.shadow.overflow": "S:67f6e5ec0b8642513331dadccacdc2a1271779c5,",
-      "elevations.shadow.raised": "S:acf1f5714d6215ff80e6ece42a9661511a75646b,",
-      "elevations.234": "S:bc5c638bed9e0b46557f544b649626ac3469e24a,"
+      "elevations.shadow.raised": "S:acf1f5714d6215ff80e6ece42a9661511a75646b,"
     },
     "selectedTokenSets": {
-      "Themes-update/light-contents": "enabled",
-      "Effects": "enabled"
+      "Effects": "enabled",
+      "--light-contents": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3682",
     "$figmaModeId": "2:1",
@@ -766,8 +765,8 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Themes-update/dark-contents": "enabled",
-      "Effects": "enabled"
+      "Effects": "enabled",
+      "--dark-contents": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3682",
     "$figmaModeId": "2:2",

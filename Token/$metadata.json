@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "Themes-update/light-contents",
-    "Themes-update/dark-contents",
+    "--light-contents",
+    "--dark-contents",
     "Typo",
     "Effects",
     "-semantic-dim",
