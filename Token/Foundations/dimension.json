@@ -320,10 +320,6 @@
     "value": "60%",
     "type": "opacity"
   },
-  "tooltips": {
-    "value": "1",
-    "type": "borderRadius"
-  },
   "Straight": {
     "value": "0",
     "type": "borderRadius"
@@ -339,9 +335,5 @@
   "bold": {
     "value": "700",
     "type": "fontWeights"
-  },
-  "tooltipBox": {
-    "value": "{tooltips}+2",
-    "type": "borderRadius"
   }
 }

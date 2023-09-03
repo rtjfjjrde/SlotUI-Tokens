@@ -230,7 +230,7 @@
           "type": "spacing"
         },
         "xs": {
-          "value": "{core.dimension.31}",
+          "value": "{core.dimension.25}",
           "type": "spacing"
         },
         "s": {
@@ -309,5 +309,13 @@
         }
       }
     }
+  },
+  "radius-tooltips": {
+    "value": "1",
+    "type": "borderRadius"
+  },
+  "radius-tooltip-box": {
+    "value": "{radius-tooltips}+2",
+    "type": "borderRadius"
   }
 }

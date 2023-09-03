@@ -1,15 +1,15 @@
 {
   "tokenSetOrder": [
-    "core/dimension",
-    "core/lite",
-    "typography/typo",
-    "typography/font/MiSans",
-    "typography/font/OPPOSans",
-    "themes-update/light-contents",
-    "themes-update/dark-contents",
-    "themes-update/web",
-    "effects",
+    "Foundations/dimension",
+    "Foundations/lite",
+    "Typography/typo",
+    "Typography/font/MiSans",
+    "Typography/font/OPPOSans",
+    "Themes-update/light-contents",
+    "Themes-update/dark-contents",
+    "Components/-semantic-dim",
     "Components/button",
-    "Components/tag"
+    "Components/tag",
+    "effects"
   ]
 }
