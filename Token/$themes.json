@@ -444,10 +444,10 @@
       "elevations.unstroked.depth+3": "S:f7f2dfa499cfa5e37ea275e4c206abdec8d6989e,",
       "elevations.unstroked.depth+2": "S:7ceb764b1b8fdb02dbc0dba8b8526b599eba6cf3,",
       "elevations.unstroked.depth+1": "S:9d4dcb5fb49e91b872aff1a3298ccb3d63932339,",
-      "focus.default Focus + 1px White Offset": "S:96d1b32eddbb27846c6b4757f271d2473aa2ad3b,",
       "focus.default Focus": "S:4b6036c5c03d7dd5b777a876f17148a2268b9b13,",
       "effect.white Offset": "S:81080ed7960156da77b74556847598da1d65baa2,",
-      "effect.inner default Border": "S:e72e768d1c1be317cb0dcb70fcb0fc9187f97d27,"
+      "effect.inner default Border": "S:e72e768d1c1be317cb0dcb70fcb0fc9187f97d27,",
+      "focus.default Focus + 1px White Offset": "S:96d1b32eddbb27846c6b4757f271d2473aa2ad3b,"
     },
     "selectedTokenSets": {
       "effects": "enabled",
