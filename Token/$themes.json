@@ -5,7 +5,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Foundations/lite": "enabled",
-      "Effects": "disabled"
+      "Typo": "disabled",
+      "Typography/MiSans": "disabled",
+      "Typography/OPPOSans": "disabled",
+      "-semantic-dim": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3486",
     "$figmaModeId": "2:0",
@@ -456,7 +459,11 @@
     },
     "selectedTokenSets": {
       "Themes-update/light-contents": "enabled",
-      "Effects": "enabled"
+      "Effects": "enabled",
+      "Typo": "disabled",
+      "Typography/MiSans": "disabled",
+      "Typography/OPPOSans": "disabled",
+      "-semantic-dim": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3682",
     "$figmaModeId": "2:1",
@@ -768,7 +775,11 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Themes-update/dark-contents": "enabled",
-      "Effects": "enabled"
+      "Effects": "enabled",
+      "Typo": "disabled",
+      "Typography/MiSans": "disabled",
+      "Typography/OPPOSans": "disabled",
+      "-semantic-dim": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3682",
     "$figmaModeId": "2:2",
@@ -1104,9 +1115,10 @@
       "Body.Strong Underline.xSmall": "S:71d945ecb6917c3c272db67742eeca4c71482da3,"
     },
     "selectedTokenSets": {
-      "Typography/typo": "enabled",
-      "Typography/font/MiSans": "enabled",
-      "Effects": "disabled"
+      "Typo": "enabled",
+      "Typography/MiSans": "enabled",
+      "Typography/OPPOSans": "disabled",
+      "-semantic-dim": "disabled"
     },
     "$figmaVariableReferences": {
       "core.size.✦fontRem": "3817622d1829b92098815153f0f97cf08496d539",
@@ -1121,9 +1133,10 @@
     "name": "OPPOSans",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Typography/typo": "enabled",
-      "Typography/font/OPPOSans": "enabled",
-      "Effects": "disabled"
+      "Typo": "enabled",
+      "Typography/MiSans": "disabled",
+      "Typography/OPPOSans": "enabled",
+      "-semantic-dim": "disabled"
     },
     "$figmaVariableReferences": {
       "core.size.✦fontRem": "3817622d1829b92098815153f0f97cf08496d539",
@@ -1141,8 +1154,10 @@
       "Components/button": "enabled",
       "Components/tag": "enabled",
       "Foundations/dimension": "enabled",
-      "Components/-semantic-dim": "enabled",
-      "Effects": "disabled"
+      "Typo": "disabled",
+      "Typography/MiSans": "disabled",
+      "Typography/OPPOSans": "disabled",
+      "-semantic-dim": "enabled"
     },
     "group": "dimension",
     "$figmaCollectionId": "VariableCollectionId:4:9101",
