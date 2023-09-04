@@ -51,7 +51,7 @@
             "y": "1",
             "blur": "1",
             "spread": "0",
-            "color": "rgba($color.background.neutral.bold.default,0.31)",
+            "color": "rgba($color.background.neutral.bold.default,0.24)",
             "type": "dropShadow"
           },
           {
@@ -59,7 +59,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "rgba($color.background.neutral.bold.default,0.24)",
+            "color": "rgba($color.background.neutral.bold.default,0.1)",
             "type": "dropShadow"
           }
         ],
