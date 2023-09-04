@@ -1729,6 +1729,11 @@
           "type": "color",
           "value": "{neutral.neutral100}",
           "description": "$elevation.surface.sunken"
+        },
+        "bolder": {
+          "type": "color",
+          "value": "{neutral.neutral200}",
+          "description": "$elevation.surface.sunken"
         }
       }
     },

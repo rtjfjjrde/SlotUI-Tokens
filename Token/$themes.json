@@ -758,6 +758,7 @@
       "elevation.surface.raised.hovered": "fa5c2fa09f2b4a941107687a92ba3ceb4737bfa5",
       "elevation.surface.raised.pressed": "447e881d288e0a0ed6406e1d49a31173c6213ef1",
       "elevation.surface.sunken.default": "d0c0a253c985d71eba9187f2b2cc4fba0a4b4695",
+      "elevation.surface.sunken.bolder": "9de557635ffe4e15b4a571366efe8c63e465597f",
       "elevation.shadow.overflow.perimeter": "16697fba4b7ba4f120b312acd70027cb5fb1c82e",
       "elevation.shadow.overflow.spread": "3cfce6df887d95da240b1606756dcba362901ba1"
     },
@@ -1071,7 +1072,8 @@
       "elevation.surface.raised.pressed": "447e881d288e0a0ed6406e1d49a31173c6213ef1",
       "elevation.surface.sunken.default": "d0c0a253c985d71eba9187f2b2cc4fba0a4b4695",
       "elevation.shadow.overflow.perimeter": "16697fba4b7ba4f120b312acd70027cb5fb1c82e",
-      "elevation.shadow.overflow.spread": "3cfce6df887d95da240b1606756dcba362901ba1"
+      "elevation.shadow.overflow.spread": "3cfce6df887d95da240b1606756dcba362901ba1",
+      "elevation.surface.sunken.bolder": "7d0281116d36926688043a43512b65eb93253aa5"
     },
     "group": "themes-update"
   },
