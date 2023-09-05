@@ -3,12 +3,12 @@
     "text": {
       "default": {
         "type": "color",
-        "value": "{neutral.neutral1000}",
+        "value": "{neutral.neutral1100}",
         "description": "$color.text"
       },
       "disabled": {
         "type": "color",
-        "value": "{neutral.alpha.neutral400A}",
+        "value": "{neutral.alpha.neutral300A}",
         "description": "$color.text.disabled"
       },
       "inverse": {
@@ -58,12 +58,12 @@
       },
       "subtlest": {
         "type": "color",
-        "value": "{neutral.neutral700}",
+        "value": "{neutral.neutral500}",
         "description": "$color.text.subtlest"
       },
       "subtle": {
         "type": "color",
-        "value": "{neutral.neutral800}",
+        "value": "{neutral.neutral700}",
         "description": "$color.text.subtle"
       },
       "accent": {

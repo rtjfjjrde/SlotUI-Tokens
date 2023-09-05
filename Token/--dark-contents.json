@@ -3,12 +3,12 @@
     "text": {
       "default": {
         "type": "color",
-        "value": "{darkNeutral.darkNeutral900}",
+        "value": "{darkNeutral.darkNeutral1100}",
         "description": "$color.text"
       },
       "disabled": {
         "type": "color",
-        "value": "{darkNeutral.alpha.darkNeutral400A}",
+        "value": "{darkNeutral.alpha.darkNeutral300A}",
         "description": "$color.text.disabled"
       },
       "inverse": {
@@ -58,12 +58,12 @@
       },
       "subtlest": {
         "type": "color",
-        "value": "{darkNeutral.darkNeutral700}",
+        "value": "{darkNeutral.darkNeutral500}",
         "description": "$color.text.subtlest"
       },
       "subtle": {
         "type": "color",
-        "value": "{darkNeutral.darkNeutral800}",
+        "value": "{darkNeutral.darkNeutral700}",
         "description": "$color.text.subtle"
       },
       "accent": {
