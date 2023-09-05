@@ -204,7 +204,7 @@
     "icon": {
       "default": {
         "type": "color",
-        "value": "{neutral.neutral800}",
+        "value": "{neutral.neutral1100}",
         "description": "$color.icon"
       },
       "accent": {
