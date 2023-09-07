@@ -122,12 +122,12 @@
     "default Focus + 1px White Offset": {
       "value": [
         {
-          "color": "{color.background.accent.gray.subtlest}",
+          "color": "{elevation.surface.default}",
           "type": "dropShadow",
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "1"
+          "spread": "2"
         },
         {
           "color": "{color.border.focused}",
@@ -135,7 +135,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "3"
+          "spread": "4"
         }
       ],
       "type": "boxShadow"

@@ -1,4 +1,83 @@
 {
+  "elevation": {
+    "surface": {
+      "default": {
+        "type": "color",
+        "value": "{neutral.neutral0}",
+        "description": "$elevation.surface"
+      },
+      "hovered": {
+        "type": "color",
+        "value": "{neutral.neutral200}",
+        "description": "$elevation.surface.hovered"
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{neutral.neutral300}",
+        "description": "$elevation.surface.pressed"
+      },
+      "overlay": {
+        "default": {
+          "type": "color",
+          "value": "{neutral.neutral0}",
+          "description": "$elevation.surface.overlay"
+        },
+        "hovered": {
+          "type": "color",
+          "value": "{neutral.neutral200}",
+          "description": "$elevation.surface.overlay.hovered"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{neutral.neutral300}",
+          "description": "$elevation.surface.overlay.pressed"
+        }
+      },
+      "raised": {
+        "default": {
+          "type": "color",
+          "value": "{neutral.neutral0}",
+          "description": "$elevation.surface.raised"
+        },
+        "hovered": {
+          "type": "color",
+          "value": "{neutral.neutral200}",
+          "description": "$elevation.surface.raised.hovered"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{neutral.neutral300}",
+          "description": "$elevation.surface.raised.pressed"
+        }
+      },
+      "sunken": {
+        "default": {
+          "type": "color",
+          "value": "{neutral.neutral100}",
+          "description": "$elevation.surface.sunken"
+        },
+        "bolder": {
+          "type": "color",
+          "value": "{neutral.neutral200}",
+          "description": "$elevation.surface.sunken"
+        }
+      }
+    },
+    "shadow": {
+      "overflow": {
+        "perimeter": {
+          "type": "color",
+          "value": "#091e421f",
+          "description": "$elevation.surface.overflow.perimeter"
+        },
+        "spread": {
+          "type": "color",
+          "value": "#091e4229",
+          "description": "$elevation.surface.overflow.spread"
+        }
+      }
+    }
+  },
   "color": {
     "text": {
       "default": {
@@ -1669,85 +1748,6 @@
             "value": "{lime.lime900}",
             "description": "$color.chart.lime.boldest.hovered"
           }
-        }
-      }
-    }
-  },
-  "elevation": {
-    "surface": {
-      "default": {
-        "type": "color",
-        "value": "{neutral.neutral0}",
-        "description": "$elevation.surface"
-      },
-      "hovered": {
-        "type": "color",
-        "value": "{neutral.neutral200}",
-        "description": "$elevation.surface.hovered"
-      },
-      "pressed": {
-        "type": "color",
-        "value": "{neutral.neutral300}",
-        "description": "$elevation.surface.pressed"
-      },
-      "overlay": {
-        "default": {
-          "type": "color",
-          "value": "{neutral.neutral0}",
-          "description": "$elevation.surface.overlay"
-        },
-        "hovered": {
-          "type": "color",
-          "value": "{neutral.neutral200}",
-          "description": "$elevation.surface.overlay.hovered"
-        },
-        "pressed": {
-          "type": "color",
-          "value": "{neutral.neutral300}",
-          "description": "$elevation.surface.overlay.pressed"
-        }
-      },
-      "raised": {
-        "default": {
-          "type": "color",
-          "value": "{neutral.neutral0}",
-          "description": "$elevation.surface.raised"
-        },
-        "hovered": {
-          "type": "color",
-          "value": "{neutral.neutral200}",
-          "description": "$elevation.surface.raised.hovered"
-        },
-        "pressed": {
-          "type": "color",
-          "value": "{neutral.neutral300}",
-          "description": "$elevation.surface.raised.pressed"
-        }
-      },
-      "sunken": {
-        "default": {
-          "type": "color",
-          "value": "{neutral.neutral100}",
-          "description": "$elevation.surface.sunken"
-        },
-        "bolder": {
-          "type": "color",
-          "value": "{neutral.neutral200}",
-          "description": "$elevation.surface.sunken"
-        }
-      }
-    },
-    "shadow": {
-      "overflow": {
-        "perimeter": {
-          "type": "color",
-          "value": "#091e421f",
-          "description": "$elevation.surface.overflow.perimeter"
-        },
-        "spread": {
-          "type": "color",
-          "value": "#091e4229",
-          "description": "$elevation.surface.overflow.spread"
         }
       }
     }

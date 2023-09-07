@@ -443,7 +443,17 @@
       "elevations.unstroked.depth+4": "S:0b082f4379460cb7a7c12e54c3b784bee7dfbdaa,",
       "elevations.unstroked.depth+3": "S:f7f2dfa499cfa5e37ea275e4c206abdec8d6989e,",
       "elevations.unstroked.depth+2": "S:7ceb764b1b8fdb02dbc0dba8b8526b599eba6cf3,",
-      "elevations.unstroked.depth+1": "S:9d4dcb5fb49e91b872aff1a3298ccb3d63932339,"
+      "elevations.unstroked.depth+1": "S:9d4dcb5fb49e91b872aff1a3298ccb3d63932339,",
+      "elevations.shadow.overlay": "S:f0f826a7d3bd8b60b77bd96ad4cbe9a18cc5f035,",
+      "elevations.shadow.overflow": "S:67f6e5ec0b8642513331dadccacdc2a1271779c5,",
+      "elevations.shadow.raised": "S:acf1f5714d6215ff80e6ece42a9661511a75646b,",
+      "elevations.button-raised": "S:bc5c638bed9e0b46557f544b649626ac3469e24a,",
+      "elevations.button-hover": "S:d879da4b0709bdd5449716ba4c92174b1a2dfa11,",
+      "focus.default Focus + 1px White Offset": "S:53278097e492931d1fb8d239517b7703cd4a9438,",
+      "focus.default Focus": "S:51d44494bc97d28d6b262799374c3488d39d64b7,",
+      "effect.white Offset": "S:1add8bf246cd368297079b4cb03209ef0632856c,",
+      "effect.inner default Border": "S:b18df05dffe2a4ce286c57282b25e377aab76308,",
+      "effect.default-border": "S:d654300c0a2bbc65c269ebff5e0e94b032ff5685,"
     },
     "selectedTokenSets": {
       "Effects": "enabled",

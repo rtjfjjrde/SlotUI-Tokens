@@ -1,4 +1,83 @@
 {
+  "elevation": {
+    "surface": {
+      "default": {
+        "type": "color",
+        "value": "{darkNeutral.darkNeutral250}",
+        "description": "$elevation.surface"
+      },
+      "hovered": {
+        "type": "color",
+        "value": "{darkNeutral.darkNeutral200}",
+        "description": "$elevation.surface.hovered"
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{darkNeutral.darkNeutral250}",
+        "description": "$elevation.surface.pressed"
+      },
+      "overlay": {
+        "default": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral300}",
+          "description": "$elevation.surface.overlay"
+        },
+        "hovered": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral350}",
+          "description": "$elevation.surface.overlay.hovered"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral400}",
+          "description": "$elevation.surface.overlay.pressed"
+        }
+      },
+      "raised": {
+        "default": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral300}",
+          "description": "$elevation.surface.raised"
+        },
+        "hovered": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral350}",
+          "description": "$elevation.surface.raised.hovered"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral400}",
+          "description": "$elevation.surface.raised.pressed"
+        }
+      },
+      "sunken": {
+        "default": {
+          "type": "color",
+          "value": "{darkNeutral.darkNeutral0}",
+          "description": "$elevation.surface.sunken"
+        },
+        "bolder": {
+          "value": "{darkNeutral.darkNeutral-100}",
+          "type": "color",
+          "description": "$elevation.surface.sunken"
+        }
+      }
+    },
+    "shadow": {
+      "overflow": {
+        "perimeter": {
+          "type": "color",
+          "value": "#03040480",
+          "description": "$elevation.surface.overflow.perimeter"
+        },
+        "spread": {
+          "type": "color",
+          "value": "#0304048f",
+          "description": "$elevation.surface.overflow.spread"
+        }
+      }
+    }
+  },
   "color": {
     "text": {
       "default": {
@@ -1669,85 +1748,6 @@
             "value": "{lime.lime200}",
             "description": "$color.chart.lime.boldest.hovered"
           }
-        }
-      }
-    }
-  },
-  "elevation": {
-    "surface": {
-      "default": {
-        "type": "color",
-        "value": "{darkNeutral.darkNeutral250}",
-        "description": "$elevation.surface"
-      },
-      "hovered": {
-        "type": "color",
-        "value": "{darkNeutral.darkNeutral200}",
-        "description": "$elevation.surface.hovered"
-      },
-      "pressed": {
-        "type": "color",
-        "value": "{darkNeutral.darkNeutral250}",
-        "description": "$elevation.surface.pressed"
-      },
-      "overlay": {
-        "default": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral300}",
-          "description": "$elevation.surface.overlay"
-        },
-        "hovered": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral350}",
-          "description": "$elevation.surface.overlay.hovered"
-        },
-        "pressed": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral400}",
-          "description": "$elevation.surface.overlay.pressed"
-        }
-      },
-      "raised": {
-        "default": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral300}",
-          "description": "$elevation.surface.raised"
-        },
-        "hovered": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral350}",
-          "description": "$elevation.surface.raised.hovered"
-        },
-        "pressed": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral400}",
-          "description": "$elevation.surface.raised.pressed"
-        }
-      },
-      "sunken": {
-        "default": {
-          "type": "color",
-          "value": "{darkNeutral.darkNeutral0}",
-          "description": "$elevation.surface.sunken"
-        },
-        "bolder": {
-          "value": "{darkNeutral.darkNeutral-100}",
-          "type": "color",
-          "description": "$elevation.surface.sunken"
-        }
-      }
-    },
-    "shadow": {
-      "overflow": {
-        "perimeter": {
-          "type": "color",
-          "value": "#03040480",
-          "description": "$elevation.surface.overflow.perimeter"
-        },
-        "spread": {
-          "type": "color",
-          "value": "#0304048f",
-          "description": "$elevation.surface.overflow.spread"
         }
       }
     }
